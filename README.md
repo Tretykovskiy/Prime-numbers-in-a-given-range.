@@ -1,1 +1,1 @@
-# Prime-numbers-in-a-given-context.
+# Prime-numbers-in-a-given-range.
